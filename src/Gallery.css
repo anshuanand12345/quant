@@ -1,0 +1,9 @@
+.nav {
+    width: 1080px;
+    height: 2000px;
+    position: absolute;
+    top: 85px;
+    left: 345px;
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.09);
+
+}

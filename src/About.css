@@ -1,0 +1,57 @@
+.nav {
+    width: 1080px;
+    height: fit-content;
+    position: absolute;
+    top: 85px;
+    left: 345px;
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.09);
+
+}
+.nav .about h1 {
+  font-size: 35px;
+  color: green;
+  margin: 20px 10px;
+}
+.nav .about .details {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  box-sizing: border-box;
+}
+.nav .about .details p {
+  text-align: justify;
+  width: 70%;
+
+}
+.nav .about .details img {
+ margin: 0px 10px;
+ border-radius: 10px;
+ width: 25%;
+ height: 300px;
+}
+.nav .about .purpose{
+   display: flex;
+   justify-content: space-around;
+   margin: 100px 10px;
+}
+.nav .about .purpose .vision {
+   width: 50%;
+   margin: 10px 20px;
+}
+.nav .about .purpose .vision h3 {
+   color: green;
+}
+.nav .about .purpose .vision p {
+    text-align: justify;
+
+}
+.nav .about .training {
+    margin: 90px 30px;
+
+}
+.nav .about .training .mission h3 {
+ color: green;
+}
+.nav .about .training .mission p{
+    text-align: justify;
+}

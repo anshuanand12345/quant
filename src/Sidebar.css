@@ -1,0 +1,21 @@
+main{
+    width: 330px;
+    height: 700px;
+    position: fixed;
+    top: 80px;
+    z-index: 1;
+}
+.sidemenu{
+    margin: 20px;
+    padding: 10px 15px;
+    font-size: 21px;
+    
+}
+.icons{
+    margin: 5px 10px;
+    font-size: 15px;
+}
+.sidemenu:hover{
+    background-color: white;
+    color: green;
+}
